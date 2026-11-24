@@ -1,0 +1,7153 @@
+{
+  "1101": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30616",
+          "teacher": "อ.ภัทรญา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30616",
+          "teacher": "อ.ภัทรญา"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30616",
+          "teacher": "อ.ภัทรญา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30616",
+          "teacher": "อ.ภัทรญา"
+        }
+      ],
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (AB)",
+        "subject": "ENG30118",
+        "teacher": "T. Tanapat"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (AB)",
+        "subject": "ENG30118",
+        "teacher": "T. Tanapat"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (AA)",
+        "subject": "ENG30118",
+        "teacher": "T. Destinny"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (AA)",
+        "subject": "ENG30118",
+        "teacher": "T. Destinny"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (AB)",
+        "subject": "ENG30118",
+        "teacher": "T. Tanapat"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (AA)",
+        "subject": "ENG30118",
+        "teacher": "T. Destinny"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA1)",
+        "subject": "ENG30106",
+        "teacher": "T. Emily"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB1)",
+        "subject": "ENG30112",
+        "teacher": "T. Ciani"
+      },
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ว30615",
+        "teacher": "อ.ภัทรญา"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ว30615",
+        "teacher": "อ.ภัทรญา"
+      },
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "อ30202",
+        "teacher": "อ.เมธชวิน"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "อ30202",
+        "teacher": "อ.เมธชวิน"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 28,
+      "lights_working_damaged": "28",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": "อีเมลถึง อ.ธนภัทร อาร์ด"
+    }
+  },
+  "1102": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": {
+        "user": "5/08",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": {
+        "user": "5/05",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA2)",
+        "subject": "ENG30106",
+        "teacher": "T. Patipat"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB2)",
+        "subject": "ENG30112",
+        "teacher": "T. Tanapat"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 28,
+      "lights_working_damaged": "28",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": "อีเมลถึง อ.ธนภัทร อาร์ด"
+    }
+  },
+  "1103": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.สุภานันท์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "จ30201",
+          "teacher": "Ms.Thanyanan"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.สุภานันท์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "จ30201",
+          "teacher": "Ms.Thanyanan"
+        }
+      ],
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA3)",
+        "subject": "ENG30112",
+        "teacher": "T. Elizabeth"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB3)",
+        "subject": "ENG30112",
+        "teacher": "T. Elizabeth"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (AB3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (AA3)",
+        "subject": "ENG30106",
+        "teacher": "T. Kelsey"
+      },
+      "periodFri1A": [
+        {
+          "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA3)",
+          "subject": "ENG30112",
+          "teacher": "T. Elizabeth"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "จ30101",
+          "teacher": "Ms.Thanyanan Nithmaneerusthana"
+        }
+      ],
+      "periodFri1B": [
+        {
+          "user": "5/01, 5/02, 5/03, 5/04, 5/05 (AA3)",
+          "subject": "ENG30112",
+          "teacher": "T. Elizabeth"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "จ30101",
+          "teacher": "Ms.Thanyanan Nithmaneerusthana"
+        }
+      ],
+      "periodFri2A": [
+        {
+          "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB3)",
+          "subject": "ENG30112",
+          "teacher": "T. Elizabeth"
+        },
+        {
+          "user": "5 (กลุ่ม 2)",
+          "subject": "จ30101",
+          "teacher": "Ms.Thanyanan Nithmaneerusthana"
+        }
+      ],
+      "periodFri2B": [
+        {
+          "user": "5/06, 5/07, 5/08, 5/09, 5/10 (AB3)",
+          "subject": "ENG30112",
+          "teacher": "T. Elizabeth"
+        },
+        {
+          "user": "5 (กลุ่ม 2)",
+          "subject": "จ30101",
+          "teacher": "Ms.Thanyanan Nithmaneerusthana"
+        }
+      ],
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 28,
+      "lights_working_damaged": "28",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": "อีเมลถึง อ.ธนภัทร อาร์ด"
+    }
+  },
+  "1104": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/01",
+        "subject": "ว30144",
+        "teacher": "อ.กมลพร, อ.ภัทรญา"
+      },
+      "periodMon1B": {
+        "user": "4/01",
+        "subject": "ว30144",
+        "teacher": "อ.กมลพร, อ.ภัทรญา"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ต30203",
+        "teacher": "Mr. Gwangjil"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ต30203",
+        "teacher": "Mr. Gwangjil"
+      },
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ต30201",
+        "teacher": "Mr.Gwangjil"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ต30201",
+        "teacher": "Mr.Gwangjil"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "4/07",
+        "subject": "ว30144",
+        "teacher": "อ.ศิริพร, อ.ภคพล"
+      },
+      "periodTue2B": {
+        "user": "4/07",
+        "subject": "ว30144",
+        "teacher": "อ.ศิริพร, อ.ภคพล"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/09",
+        "subject": "ว30144",
+        "teacher": "อ.นิทัศน์, อ.วรรณิดา"
+      },
+      "periodThu1B": {
+        "user": "4/09",
+        "subject": "ว30144",
+        "teacher": "อ.นิทัศน์, อ.วรรณิดา"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": [
+        {
+          "user": "4/05",
+          "subject": "ว30144",
+          "teacher": "อ.สมฤทัย, อ.พรมงคล"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "ต30101",
+          "teacher": "Mr. Gwangjil Jang"
+        }
+      ],
+      "periodFri1B": [
+        {
+          "user": "4/05",
+          "subject": "ว30144",
+          "teacher": "อ.สมฤทัย, อ.พรมงคล"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "ต30101",
+          "teacher": "Mr. Gwangjil Jang"
+        }
+      ],
+      "periodFri2A": {
+        "user": "5 (กลุ่ม 2)",
+        "subject": "ต30101",
+        "teacher": "Mr. Gwangjil Jang"
+      },
+      "periodFri2B": {
+        "user": "5 (กลุ่ม 2)",
+        "subject": "ต30101",
+        "teacher": "Mr. Gwangjil Jang"
+      },
+      "periodFri3A": {
+        "user": "4/03",
+        "subject": "ว30144",
+        "teacher": "อ.ศุภกร, อ.ธัญนันท์"
+      },
+      "periodFri3B": {
+        "user": "4/03",
+        "subject": "ว30144",
+        "teacher": "อ.ศุภกร, อ.ธัญนันท์"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 28,
+      "lights_working_damaged": "28",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": "อีเมลถึง อ.ธนภัทร อาร์ด"
+    }
+  },
+  "1105": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/02",
+        "subject": "ว30144",
+        "teacher": "อ.ดวงแข, อ.ธรรมนูญ"
+      },
+      "periodMon1B": {
+        "user": "4/02",
+        "subject": "ว30144",
+        "teacher": "อ.ดวงแข, อ.ธรรมนูญ"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": {
+        "user": "5/10",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodMon3A": 0,
+      "periodMon3B": {
+        "user": "5/09",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ย30201",
+        "teacher": "Ms.Supapat"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ย30201",
+        "teacher": "Ms.Supapat"
+      },
+      "periodTue1A": {
+        "user": "5/04",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "4/08",
+        "subject": "ว30144",
+        "teacher": "อ.พัสวีพิชญ์, อ.ธัญนันท์"
+      },
+      "periodTue2B": {
+        "user": "4/08",
+        "subject": "ว30144",
+        "teacher": "อ.พัสวีพิชญ์, อ.ธัญนันท์"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": {
+        "user": "5/07",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodTue4A": 0,
+      "periodTue4B": {
+        "user": "5/03",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodWed1A": {
+        "user": "5/02",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "5/06",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/10",
+        "subject": "ว30144",
+        "teacher": "อ.บุญนที, อ.ธัญญรัตน์"
+      },
+      "periodThu1B": {
+        "user": "4/10",
+        "subject": "ว30144",
+        "teacher": "อ.บุญนที, อ.ธัญญรัตน์"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": [
+        {
+          "user": "4/06",
+          "subject": "ว30144",
+          "teacher": "อ.เลาขวัญ, อ.สาธิต"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "ย30101",
+          "teacher": "Ms.Supapat Singuntragorn"
+        }
+      ],
+      "periodFri1B": [
+        {
+          "user": "4/06",
+          "subject": "ว30144",
+          "teacher": "อ.เลาขวัญ, อ.สาธิต"
+        },
+        {
+          "user": "5 (กลุ่ม 1)",
+          "subject": "ย30101",
+          "teacher": "Ms.Supapat Singuntragorn"
+        }
+      ],
+      "periodFri2A": {
+        "user": "5 (กลุ่ม 2)",
+        "subject": "ย30101",
+        "teacher": "Ms.Supapat Singuntragorn"
+      },
+      "periodFri2B": {
+        "user": "5 (กลุ่ม 2)",
+        "subject": "ย30101",
+        "teacher": "Ms.Supapat Singuntragorn"
+      },
+      "periodFri3A": {
+        "user": "4/04",
+        "subject": "ว30144",
+        "teacher": "อ.วรพันธ์, อ.อรวรรณ"
+      },
+      "periodFri3B": {
+        "user": "4/04",
+        "subject": "ว30144",
+        "teacher": "อ.วรพันธ์, อ.อรวรรณ"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 28,
+      "lights_working_damaged": "28",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": "อีเมลถึง อ.ธนภัทร อาร์ด"
+    }
+  },
+  "1106": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 18,
+      "lights_working_damaged": "18",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "กน.",
+      "contact": null
+    }
+  },
+  "1107": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "6/05",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodTue1B": {
+        "user": "6/05",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodTue2A": {
+        "user": "6/08",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodTue2B": {
+        "user": "6/08",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodTue3A": {
+        "user": "4/06",
+        "subject": "ส30103",
+        "teacher": "อ.พชร"
+      },
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "4/01",
+        "subject": "ส30103",
+        "teacher": "อ.พชร"
+      },
+      "periodTue4B": {
+        "user": "4/09",
+        "subject": "ส30103",
+        "teacher": "อ.พชร"
+      },
+      "periodWed1A": {
+        "user": "6/10",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodWed1B": {
+        "user": "6/10",
+        "subject": "ท30106",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodWed2A": {
+        "user": "4/01",
+        "subject": "ท30102",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodWed2B": {
+        "user": "4/01",
+        "subject": "ท30102",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "ม.6",
+        "subject": "ท30231",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodThu3B": {
+        "user": "ม.6",
+        "subject": "ท30231",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodThu4A": {
+        "user": "4/09",
+        "subject": "ท30102",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodThu4B": {
+        "user": "4/09",
+        "subject": "ท30102",
+        "teacher": "อ.ปิยรัตน์"
+      },
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ศ30201",
+          "teacher": "อ.ปิยรัตน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ศ30201",
+          "teacher": "อ.ปิยรัตน์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ศ30201",
+          "teacher": "อ.ปิยรัตน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ศ30201",
+          "teacher": "อ.ปิยรัตน์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 18,
+      "lights_working_damaged": "18",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": "ติดต่อ อ.ปิยรัตน์"
+    }
+  },
+  "1108": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": {
+        "user": "4/04",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodMon2A": {
+        "user": "4/10",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "4/08",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodMon3B": {
+        "user": "4/08",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "4/07",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue1B": {
+        "user": "4/07",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": {
+        "user": "4/01",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodTue3A": {
+        "user": "4/02",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue3B": {
+        "user": "4/02",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue4A": {
+        "user": "5/01",
+        "subject": "ง30101",
+        "teacher": "อ.พิริยา/อ.วิษณุ"
+      },
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "4/04",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "4/01",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodThu2B": {
+        "user": "4/10",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodThu3A": {
+        "user": "4/03",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodThu3B": {
+        "user": "4/03",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodThu4A": {
+        "user": "4/06",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodThu4B": {
+        "user": "4/06",
+        "subject": "ศ30102",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": {
+        "user": "4/05",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodFri2B": {
+        "user": "4/05",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodFri3A": {
+        "user": "4/09",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodFri3B": {
+        "user": "4/09",
+        "subject": "ศ30102",
+        "teacher": "อ.มานนท์"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.ดวงแข,อ.มานนท์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30801",
+          "teacher": "อ.ดวงแข, อ.มานนท์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.ดวงแข,อ.มานนท์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30801",
+          "teacher": "อ.ดวงแข, อ.มานนท์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 18,
+      "lights_working_damaged": "18",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": "ติดต่อ อ.ปิยรัตน์"
+    }
+  },
+  "1201": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.4",
+        "subject": "ค30208",
+        "teacher": "อ.ธรรมนูญ,อ.ถนอมศักดิ์ อ.อัญญารัตน์,อ.สิทธิโชค"
+      },
+      "periodMon4B": {
+        "user": "ม.4",
+        "subject": "ค30208",
+        "teacher": "อ.ธรรมนูญ,อ.ถนอมศักดิ์ อ.อัญญารัตน์,อ.สิทธิโชค"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "4/10",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodTue2B": {
+        "user": "4/10",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodTue3A": {
+        "user": "5/04",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodTue3B": {
+        "user": "5/04",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodTue4A": {
+        "user": "5/06",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodTue4B": {
+        "user": "5/06",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodWed1A": {
+        "user": "4/08",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodWed1B": {
+        "user": "4/08",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodWed2A": {
+        "user": "4/09",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodWed2B": {
+        "user": "4/09",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/02",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodThu1B": {
+        "user": "4/02",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodThu2A": {
+        "user": "4/07",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodThu2B": {
+        "user": "4/07",
+        "subject": "ว30132",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/07",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodFri1B": {
+        "user": "5/07",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodFri2A": {
+        "user": "5/01",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodFri2B": {
+        "user": "5/01",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodFri3A": {
+        "user": "5/09",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodFri3B": {
+        "user": "5/09",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ว30706",
+        "teacher": "อ.เลาขวัญ"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ว30706",
+        "teacher": "อ.เลาขวัญ"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "COM",
+      "contact": null
+    }
+  },
+  "1202": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/05",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodMon1B": {
+        "user": "4/05",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ว30709",
+        "teacher": "อ.บุญนที, อ.ศิริพร"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ว30709",
+        "teacher": "อ.บุญนที, อ.ศิริพร"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "5/03",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodTue1B": {
+        "user": "5/03",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodTue2A": {
+        "user": "5/10",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodTue2B": {
+        "user": "5/10",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "4/06",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodTue4B": {
+        "user": "4/06",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodWed1A": {
+        "user": "5/08",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodWed1B": {
+        "user": "5/08",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodWed2A": {
+        "user": "5/02",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodWed2B": {
+        "user": "5/02",
+        "subject": "ว30134",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/04",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodThu1B": {
+        "user": "4/04",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/03",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodFri1B": {
+        "user": "4/03",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodFri2A": {
+        "user": "5/05",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodFri2B": {
+        "user": "5/05",
+        "subject": "ว30134",
+        "teacher": "อ.บุญนที"
+      },
+      "periodFri3A": {
+        "user": "4/01",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodFri3B": {
+        "user": "4/01",
+        "subject": "ว30132",
+        "teacher": "อ.ศิริพร"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "COM",
+      "contact": null
+    }
+  },
+  "1301": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ค30215",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ค30215",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodTue1A": {
+        "user": "5/09",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodTue1B": {
+        "user": "5/09",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "5/05",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodTue3B": {
+        "user": "5/05",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "4/07",
+        "subject": "ค30103",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodWed1B": {
+        "user": "4/07",
+        "subject": "ค30103",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodWed2A": {
+        "user": "4/02",
+        "subject": "ค30103",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodWed2B": {
+        "user": "4/02",
+        "subject": "ค30103",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "5/05",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodThu2B": {
+        "user": "5/09",
+        "subject": "ค30106",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 28 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "1302": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "5/07",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodTue1B": {
+        "user": "5/02",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "4/05",
+        "subject": "ค30103",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodWed2B": {
+        "user": "4/05",
+        "subject": "ค30103",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/03",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodThu1B": {
+        "user": "5/06",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodThu2A": {
+        "user": "5/10",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodThu2B": {
+        "user": "5/04",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 28 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "1303": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/01",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodMon1B": {
+        "user": "5/01",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodMon2A": {
+        "user": "4/06",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodMon2B": {
+        "user": "4/06",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "5/06",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodTue1B": {
+        "user": "5/06",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "4/01",
+        "subject": "ค30103",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodTue3B": {
+        "user": "4/01",
+        "subject": "ค30103",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ค30222",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ค30222",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ค30219",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ค30219",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/06",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodThu1B": {
+        "user": "4/07",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodThu2A": {
+        "user": "5/01",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodThu2B": {
+        "user": "5/08",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/10",
+        "subject": "ค30103",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodFri1B": {
+        "user": "4/10",
+        "subject": "ค30103",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodFri2A": {
+        "user": "4/07",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodFri2B": {
+        "user": "4/07",
+        "subject": "ค30104",
+        "teacher": "อ.สุพรรณี"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "ค30218",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "ค30218",
+        "teacher": "อ.จีรวรรณ"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 28 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "1501": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "5/05",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodMon2B": {
+        "user": "5/05",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodMon3A": {
+        "user": "5/02",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodMon3B": {
+        "user": "5/02",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "5/01",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodTue2B": {
+        "user": "5/01",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodTue3A": {
+        "user": "5/09",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodTue3B": {
+        "user": "5/09",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodTue4A": {
+        "user": "5/04",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodTue4B": {
+        "user": "5/04",
+        "subject": "ส30107",
+        "teacher": "อ.วีระยุทธ"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "1/1",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "1502": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/08",
+        "subject": "ส30107",
+        "teacher": "อ.พชร"
+      },
+      "periodMon1B": {
+        "user": "5/08",
+        "subject": "ส30107",
+        "teacher": "อ.พชร"
+      },
+      "periodMon2A": {
+        "user": "5/06",
+        "subject": "ส30107",
+        "teacher": "อ.พชร"
+      },
+      "periodMon2B": {
+        "user": "5/06",
+        "subject": "ส30107",
+        "teacher": "อ.พชร"
+      },
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.4",
+        "subject": "ส30213",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodMon4B": {
+        "user": "ม.4",
+        "subject": "ส30213",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "5/07",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue2B": {
+        "user": "5/07",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue3A": {
+        "user": "5/03",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue3B": {
+        "user": "5/03",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue4A": {
+        "user": "5/10",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodTue4B": {
+        "user": "5/10",
+        "subject": "ส30107",
+        "teacher": "อ.สิริรัตน์"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/08",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodFri1B": {
+        "user": "5/09",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "5/07",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodFri3B": {
+        "user": "5/05",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 25 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "1503": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/09",
+        "subject": "ส30106",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon1B": {
+        "user": "4/07",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon2A": {
+        "user": "5/10",
+        "subject": "ส30106",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon2B": {
+        "user": "4/02",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ส30205",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ส30205",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "5/10",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": {
+        "user": "4/03",
+        "subject": "ส30103",
+        "teacher": "อ.พชร"
+      },
+      "periodTue3A": {
+        "user": "4/10",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodTue3B": {
+        "user": "5/01",
+        "subject": "ส30106",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodTue4A": {
+        "user": "4/08",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodTue4B": {
+        "user": "5/07",
+        "subject": "ส30106",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodWed1A": {
+        "user": "5/01",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/04",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodThu1B": {
+        "user": "5/02",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodThu2A": {
+        "user": "5/03",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodThu2B": {
+        "user": "5/06",
+        "subject": "ศ30104",
+        "teacher": "อ.ปภากร"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": {
+        "user": "4/04",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "4/05",
+        "subject": "ส30103",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodFri3B": {
+        "user": "5/08",
+        "subject": "ส30106",
+        "teacher": "อ.อภิรักษ์"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ส30205",
+          "teacher": "อ.อภิรักษ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30205",
+          "teacher": "อ.อภิรักษ์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ส30205",
+          "teacher": "อ.อภิรักษ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30205",
+          "teacher": "อ.อภิรักษ์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "1601": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ส30224",
+          "teacher": "อ.มุกจรินทร์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30224",
+          "teacher": "อ.มุกจรินทร์"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ส30224",
+          "teacher": "อ.มุกจรินทร์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30224",
+          "teacher": "อ.มุกจรินทร์"
+        }
+      ],
+      "periodTue1A": {
+        "user": "5/02",
+        "subject": "ส30106",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodTue1B": {
+        "user": "5/04",
+        "subject": "ส30106",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodTue2A": {
+        "user": "5/06",
+        "subject": "ส30106",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "5/03",
+        "subject": "ส30106",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodTue4B": {
+        "user": "5/05",
+        "subject": "ส30106",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ส30224",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ส30224",
+        "teacher": "อ.วิสิทธิ์"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ส30224",
+          "teacher": "อ.วิสิทธิ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30224",
+          "teacher": "อ.วิสิทธิ์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ส30224",
+          "teacher": "อ.วิสิทธิ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ส30224",
+          "teacher": "อ.วิสิทธิ์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "1602": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "5/07",
+        "subject": "ท30104",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodMon2B": {
+        "user": "5/07",
+        "subject": "ท30104",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodMon3A": {
+        "user": "4/03",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodMon3B": {
+        "user": "4/03",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "4/08",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodTue3B": {
+        "user": "4/08",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodTue4A": {
+        "user": "4/05",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodTue4B": {
+        "user": "4/05",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "4/06",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodWed2B": {
+        "user": "4/06",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/05",
+        "subject": "ท30104",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodThu1B": {
+        "user": "5/05",
+        "subject": "ท30104",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/02",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodThu3B": {
+        "user": "4/02",
+        "subject": "ท30102",
+        "teacher": "อ.ณัฏฐพล"
+      },
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 25 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "1603": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "4/07",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodMon3B": {
+        "user": "4/07",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ท30229",
+          "teacher": "อ.ปริศนา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ท30229",
+          "teacher": "อ.ปริศนา"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ท30229",
+          "teacher": "อ.ปริศนา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ท30229",
+          "teacher": "อ.ปริศนา"
+        }
+      ],
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "5/06",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodTue3B": {
+        "user": "5/06",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodTue4A": {
+        "user": "5/02",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodTue4B": {
+        "user": "5/02",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodWed1A": {
+        "user": "5/10",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodWed1B": {
+        "user": "5/10",
+        "subject": "ท30104",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ท30214",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ท30214",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/04",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodThu3B": {
+        "user": "4/04",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodThu4A": {
+        "user": "4/10",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodThu4B": {
+        "user": "4/10",
+        "subject": "ท30102",
+        "teacher": "อ.ปริศนา"
+      },
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 25 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "1604": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "5/08",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodMon2B": {
+        "user": "5/08",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodMon3A": {
+        "user": "5/01",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodMon3B": {
+        "user": "5/01",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "6/06",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodTue2B": {
+        "user": "6/06",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodTue3A": {
+        "user": "6/02",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodTue3B": {
+        "user": "6/02",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "6/09",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodWed1B": {
+        "user": "6/09",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodWed2A": {
+        "user": "5/04",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodWed2B": {
+        "user": "5/04",
+        "subject": "ท30104",
+        "teacher": "อ.เกศนี"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/04",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodThu1B": {
+        "user": "6/04",
+        "subject": "ท30106",
+        "teacher": "อ.เกศนี"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 25 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "1605": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ท30210",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ท30210",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "ท30220",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "ท30220",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodTue1A": {
+        "user": "6/01",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodTue1B": {
+        "user": "6/01",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodTue2A": {
+        "user": "6/07",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodTue2B": {
+        "user": "6/07",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "6/03",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodWed1B": {
+        "user": "6/03",
+        "subject": "ท30106",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodWed2A": {
+        "user": "5/03",
+        "subject": "ท30104",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodWed2B": {
+        "user": "5/03",
+        "subject": "ท30104",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/09",
+        "subject": "ท30104",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodThu1B": {
+        "user": "5/09",
+        "subject": "ท30104",
+        "teacher": "อ.ธวัชชัย สุลาลัย"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "1701": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB3)",
+        "subject": "ENG30117",
+        "teacher": "T. Elizabeth"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB3)",
+        "subject": "ENG30117",
+        "teacher": "T. Elizabeth"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA3)",
+        "subject": "ENG30117",
+        "teacher": "T. Emily"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA3)",
+        "subject": "ENG30117",
+        "teacher": "T. Emily"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB3)",
+        "subject": "ENG30117",
+        "teacher": "T. Elizabeth"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA3)",
+        "subject": "ENG30117",
+        "teacher": "T. Emily"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA3)",
+        "subject": "ENG30105",
+        "teacher": "T. Metchawin"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB3)",
+        "subject": "ENG30111",
+        "teacher": "T. Supapat"
+      },
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "อ30206",
+        "teacher": "Ms.Ciani"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "อ30206",
+        "teacher": "Ms.Ciani"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "1702": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA2)",
+        "subject": "ENG30117",
+        "teacher": "T. Patipat"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA2)",
+        "subject": "ENG30105",
+        "teacher": "T. Ciani"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB2)",
+        "subject": "ENG30111",
+        "teacher": "T. Kelsey"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "อ30209",
+        "teacher": "อ.ปฏิพัทธ์"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "อ30209",
+        "teacher": "อ.ปฏิพัทธ์"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "7/1",
+      "ac_total": 2,
+      "ac_working_damaged": "1/1",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": "หลอดไฟชำรุด 1 หลอด ,เครื่องปรับอากาศมอเตอร์พัดลมเสียงดัง",
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "1703": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "อ30211",
+        "teacher": "Ms. Destinny"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "อ30211",
+        "teacher": "Ms. Destinny"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA1)",
+        "subject": "ENG30111",
+        "teacher": "T. Metchawin"
+      },
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "อ30211",
+        "teacher": "อ.ดารุณี"
+      },
+      "periodWed2B": [
+        {
+          "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB1)",
+          "subject": "ENG30111",
+          "teacher": "T. Metchawin"
+        },
+        {
+          "user": "ม.6",
+          "subject": "อ30211",
+          "teacher": "อ.ดารุณี"
+        }
+      ],
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (IB1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (IA1)",
+        "subject": "ENG30117",
+        "teacher": "T. Darunee"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (IB1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (IA1)",
+        "subject": "ENG30105",
+        "teacher": "T. Kanokthip"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA1)",
+        "subject": "ENG30111",
+        "teacher": "T. Metchawin"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (IA1)",
+        "subject": "ENG30111",
+        "teacher": "T. Metchawin"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB1)",
+        "subject": "ENG30111",
+        "teacher": "T. Metchawin"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (IB1)",
+        "subject": "ENG30111",
+        "teacher": "T. Metchawin"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "2301": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ค30206",
+        "teacher": "อ.ธรรมนูญ"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ค30206",
+        "teacher": "อ.ธรรมนูญ"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ ติดอยู่กับที่ 30 ชุด",
+      "lights_total": 16,
+      "lights_working_damaged": "16",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "2302": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/04",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": {
+        "user": "4/01",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodMon3A": {
+        "user": "5/08",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodMon3B": {
+        "user": "5/08",
+        "subject": "ค30106",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "ค30222",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "ค30222",
+        "teacher": "อ.วันเฉลิม"
+      },
+      "periodTue1A": {
+        "user": "4/02",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.ธรรมนูญ"
+      },
+      "periodTue1B": {
+        "user": "4/02",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.ธรรมนูญ"
+      },
+      "periodTue2A": {
+        "user": "4/04",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodTue2B": {
+        "user": "4/04",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodTue3A": {
+        "user": "4/09",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodTue3B": {
+        "user": "4/09",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "4/09",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodWed1B": {
+        "user": "4/09",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ค30215",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ค30215",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/07",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodThu1B": {
+        "user": "5/07",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodThu2A": {
+        "user": "5/02",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodThu2B": {
+        "user": "5/02",
+        "subject": "ค30106",
+        "teacher": "อ.วรพันธ์"
+      },
+      "periodThu3A": {
+        "user": "ม.6",
+        "subject": "ค30216",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodThu3B": {
+        "user": "ม.6",
+        "subject": "ค30216",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/04",
+        "subject": "ค30103",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodFri1B": {
+        "user": "4/04",
+        "subject": "ค30103",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodFri2A": {
+        "user": "4/08",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodFri2B": {
+        "user": "4/08",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ค30221",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ค30221",
+        "teacher": "อ.อัญญารัตน์"
+      },
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ค30209",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ค30209",
+        "teacher": "อ.นงลักษณ์"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ ติดอยู่กับที่ 33 ชุด",
+      "lights_total": 16,
+      "lights_working_damaged": "16",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "2303": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/04",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodMon1B": {
+        "user": "5/04",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodMon2A": {
+        "user": "5/03",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodMon2B": {
+        "user": "5/03",
+        "subject": "ค30106",
+        "teacher": "อ.มนสิการ"
+      },
+      "periodMon3A": {
+        "user": "5/10",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodMon3B": {
+        "user": "5/10",
+        "subject": "ค30106",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ค30214",
+        "teacher": "อ.นคร อ.สุพรรณี"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ค30214",
+        "teacher": "อ.นคร อ.สุพรรณี"
+      },
+      "periodTue1A": {
+        "user": "4/03",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodTue1B": {
+        "user": "4/03",
+        "subject": "ค30103",
+        "teacher": "อ.นงลักษณ์"
+      },
+      "periodTue2A": {
+        "user": "4/05",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodTue2B": {
+        "user": "4/05",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ค30220",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ค30220",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodWed1A": {
+        "user": "4/06",
+        "subject": "ค30103",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodWed1B": {
+        "user": "4/06",
+        "subject": "ค30103",
+        "teacher": "อ.จีรวรรณ"
+      },
+      "periodWed2A": {
+        "user": "4/08",
+        "subject": "ค30104",
+        "teacher": "อ.ธรรมนูญ"
+      },
+      "periodWed2B": {
+        "user": "4/08",
+        "subject": "ค30104",
+        "teacher": "อ.ธรรมนูญ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "4/10",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.สิทธิโชค"
+      },
+      "periodThu2B": {
+        "user": "4/05",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": {
+        "user": "4/09",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "ค30214",
+        "teacher": "อ.นคร อ.สุพรรณี"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "ค30214",
+        "teacher": "อ.นคร อ.สุพรรณี"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ ติดอยู่กับที่ 33 ชุด",
+      "lights_total": 16,
+      "lights_working_damaged": "16",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "2304": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/03",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodMon1B": {
+        "user": "4/03",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "4/03",
+        "subject": "ค30104",
+        "teacher": "อ.สิทธิโชค"
+      },
+      "periodWed2A": {
+        "user": "4/10",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.สิทธิโชค"
+      },
+      "periodWed2B": {
+        "user": "4/10",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.สิทธิโชค"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/01",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodThu1B": {
+        "user": "4/01",
+        "subject": "ค30104",
+        "teacher": "อ.ถนอมศักดิ์"
+      },
+      "periodThu2A": {
+        "user": "4/08",
+        "subject": "ค30104",
+        "teacher": "อ.ธรรมนูญ"
+      },
+      "periodThu2B": {
+        "user": "4/02",
+        "subject": "ค30104",
+        "teacher": "อ.เดี่ยว อ.ธรรมนูญ"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ ติดอยู่กับที่ 33 ชุด",
+      "lights_total": 16,
+      "lights_working_damaged": "16",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "MC",
+      "contact": null
+    }
+  },
+  "2505": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "4/01",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodMon3B": {
+        "user": "4/01",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30521",
+          "teacher": "อ.สาโรจน์,อ.ภคพล"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30521",
+          "teacher": "อ.สาโรจน์, อ.ภคพล"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30521",
+          "teacher": "อ.สาโรจน์,อ.ภคพล"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30521",
+          "teacher": "อ.สาโรจน์, อ.ภคพล"
+        }
+      ],
+      "periodTue1A": {
+        "user": "4/05",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodTue1B": {
+        "user": "4/05",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "4/07",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.มุกจรินทร์"
+      },
+      "periodTue3B": {
+        "user": "4/07",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.มุกจรินทร์"
+      },
+      "periodTue4A": {
+        "user": "4/03",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodTue4B": {
+        "user": "4/03",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodWed1A": {
+        "user": "4/10",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodWed1B": {
+        "user": "4/10",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodWed2A": {
+        "user": "4/04",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.สิริรัตน์"
+      },
+      "periodWed2B": {
+        "user": "4/04",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.สิริรัตน์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "4/09",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodThu2B": {
+        "user": "4/09",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.สิริรัตน์"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/02",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodFri1B": {
+        "user": "4/02",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodFri2A": {
+        "user": "4/06",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.มุกจรินทร์"
+      },
+      "periodFri2B": {
+        "user": "4/06",
+        "subject": "ว30141",
+        "teacher": "อ.วีรวุฒิ, อ.มุกจรินทร์"
+      },
+      "periodFri3A": {
+        "user": "4/08",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodFri3B": {
+        "user": "4/08",
+        "subject": "ว30141",
+        "teacher": "อ.วัลลภ, อ.มุกจรินทร์"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": 6,
+      "lights_working_damaged": "6",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "2701": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "อ30203",
+        "teacher": "กลุ่ม 2 Ms. Elizabeth"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "อ30203",
+        "teacher": "กลุ่ม 2 Ms. Elizabeth"
+      },
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB1)",
+        "subject": "ENG30116",
+        "teacher": "T. Kelsey"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB1)",
+        "subject": "ENG30116",
+        "teacher": "T. Kelsey"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA1)",
+        "subject": "ENG30116",
+        "teacher": "T. Ciani"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA1)",
+        "subject": "ENG30116",
+        "teacher": "T. Ciani"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB1)",
+        "subject": "ENG30116",
+        "teacher": "T. Kelsey"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA1)",
+        "subject": "ENG30116",
+        "teacher": "T. Ciani"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA1)",
+        "subject": "ENG30104",
+        "teacher": "T. Elizabeth"
+      },
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "2702": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "อ30203",
+        "teacher": "กลุ่ม 1 Ms. Emily"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "อ30203",
+        "teacher": "กลุ่ม 1 Ms. Emily"
+      },
+      "periodTue1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Kanokthip"
+      },
+      "periodTue1B": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Kanokthip"
+      },
+      "periodTue2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Metchawin"
+      },
+      "periodTue2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Metchawin"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10 (PB2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Kanokthip"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05 (PA2)",
+        "subject": "ENG30116",
+        "teacher": "T. Supapat & T. Metchawin"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA2)",
+        "subject": "ENG30104",
+        "teacher": "T. Destinny"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB1)",
+        "subject": "ENG30110",
+        "teacher": "T. Destinny"
+      },
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "อ30206",
+        "teacher": "Ms.Kelsey"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "อ30206",
+        "teacher": "Ms.Kelsey"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "2703": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emily"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emily"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emily"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emilt"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emily"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB2)",
+        "subject": "ENG30110",
+        "teacher": "T. Emily"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "2704": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "อ30204",
+        "teacher": "อ.กนกทิพย์"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "อ30204",
+        "teacher": "อ.กนกทิพย์"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodThu3B": {
+        "user": "4/06, 4/07, 4/08, 4/09, 4/10 (PB3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodThu4A": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodThu4B": {
+        "user": "4/01, 4/02, 4/03, 4/04, 4/05 (PA3)",
+        "subject": "ENG30104",
+        "teacher": "T. Tanapat"
+      },
+      "periodFri1A": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodFri1B": {
+        "user": "5/01, 5/02, 5/03, 5/04, 5/05 (PA3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodFri2A": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodFri2B": {
+        "user": "5/06, 5/07, 5/08, 5/09, 5/10 (PB3)",
+        "subject": "ENG30110",
+        "teacher": "T. Kanokthip"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 24 ชุด",
+      "lights_total": 16,
+      "lights_working_damaged": "16",
+      "ac_total": 2,
+      "ac_working_damaged": "2",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FL",
+      "contact": null
+    }
+  },
+  "3301": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ว30607",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ว30607",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ว30607",
+        "teacher": "อ.เมษสุวัลย์"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ว30607",
+        "teacher": "อ.เมษสุวัลย์"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ว30609",
+        "teacher": "อ.ธัญญรัตน์ อ.กิตติ์รวี"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ว30609",
+        "teacher": "อ.ธัญญรัตน์ อ.กิตติ์รวี"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ว30626",
+        "teacher": "อ.อทิตา"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ว30626",
+        "teacher": "อ.อทิตา"
+      }
+    },
+    "condition": {
+      "chair no.": "โต๊ะ เก้าอี้ 25 ชุด",
+      "lights_total": 8,
+      "lights_working_damaged": "8",
+      "ac_total": 2,
+      "ac_working_damaged": "1/1",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "3401": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/02",
+        "subject": "ว30124",
+        "teacher": "อ.อารีย์"
+      },
+      "periodMon1B": {
+        "user": "5/02",
+        "subject": "ว30124",
+        "teacher": "อ.อารีย์"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ว30801",
+        "teacher": "อ.จิโรจน์ อ.ภัสกร อ.อทิตา"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ว30801",
+        "teacher": "อ.จิโรจน์ อ.ภัสกร อ.อทิตา"
+      },
+      "periodTue1A": {
+        "user": "4/04",
+        "subject": "ว30122",
+        "teacher": "อ.ภัสกร"
+      },
+      "periodTue1B": {
+        "user": "4/04",
+        "subject": "ว30122",
+        "teacher": "อ.ภัสกร"
+      },
+      "periodTue2A": {
+        "user": "4/06",
+        "subject": "ว30122",
+        "teacher": "อ.จิโรจน์"
+      },
+      "periodTue2B": {
+        "user": "4/06",
+        "subject": "ว30122",
+        "teacher": "อ.จิโรจน์"
+      },
+      "periodTue3A": {
+        "user": "4/05",
+        "subject": "ว30122",
+        "teacher": "อ.ทิพนาถ"
+      },
+      "periodTue3B": {
+        "user": "4/05",
+        "subject": "ว30122",
+        "teacher": "อ.ทิพนาถ"
+      },
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ว30618",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ว30618",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ว30614",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ว30614",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/08",
+        "subject": "ว30122",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodThu1B": {
+        "user": "4/08",
+        "subject": "ว30122",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/07",
+        "subject": "ว30122",
+        "teacher": "อ.อทิตา"
+      },
+      "periodFri1B": {
+        "user": "4/07",
+        "subject": "ว30122",
+        "teacher": "อ.อทิตา"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "4/10",
+        "subject": "ว30122",
+        "teacher": "อ.ภัสกร"
+      },
+      "periodFri3B": {
+        "user": "4/10",
+        "subject": "ว30122",
+        "teacher": "อ.ภัสกร"
+      },
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ว30612",
+        "teacher": "อ.อารีย์,อ.เมษสุวัลย์"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ว30612",
+        "teacher": "อ.อารีย์,อ.เมษสุวัลย์"
+      }
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "2/1",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "3403": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ว30621",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ว30621",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "ว30610",
+        "teacher": "อ.อารีย์"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "ว30610",
+        "teacher": "อ.อารีย์"
+      },
+      "periodTue1A": {
+        "user": "4/01",
+        "subject": "ว30122",
+        "teacher": "อ.อทิตา"
+      },
+      "periodTue1B": {
+        "user": "4/01",
+        "subject": "ว30122",
+        "teacher": "อ.อทิตา"
+      },
+      "periodTue2A": {
+        "user": "5/03",
+        "subject": "ว30124",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodTue2B": {
+        "user": "5/03",
+        "subject": "ว30124",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "5/09",
+        "subject": "ว30124",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodWed1B": {
+        "user": "5/09",
+        "subject": "ว30124",
+        "teacher": "อ.นิธิกานต์"
+      },
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "5/07",
+        "subject": "ว30124",
+        "teacher": "อ.กิตติ์รวี"
+      },
+      "periodThu2B": {
+        "user": "5/07",
+        "subject": "ว30124",
+        "teacher": "อ.กิตติ์รวี"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/10",
+        "subject": "ว30124",
+        "teacher": "อ.กิตติ์รวี"
+      },
+      "periodFri1B": {
+        "user": "5/10",
+        "subject": "ว30124",
+        "teacher": "อ.กิตติ์รวี"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ว30623",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ว30623",
+        "teacher": "อ.สมฤทัย"
+      },
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "ว30604",
+        "teacher": "อ.นิธิกานต์, อ.กิตติ์รวี"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "ว30604",
+        "teacher": "อ.นิธิกานต์, อ.กิตติ์รวี"
+      }
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "3405": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/05",
+        "subject": "ว30124",
+        "teacher": "อ.ธัญญรัตน์"
+      },
+      "periodMon1B": {
+        "user": "5/05",
+        "subject": "ว30124",
+        "teacher": "อ.ธัญญรัตน์"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "4/09",
+        "subject": "ว30122",
+        "teacher": "อ. เมษสุวัลย์"
+      },
+      "periodMon3B": {
+        "user": "4/09",
+        "subject": "ว30122",
+        "teacher": "อ. เมษสุวัลย์"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30625",
+          "teacher": "อ.พัสวีพิชญ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30625",
+          "teacher": "อ.พัสวีพิชญ์"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30625",
+          "teacher": "อ.พัสวีพิชญ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30625",
+          "teacher": "อ.พัสวีพิชญ์"
+        }
+      ],
+      "periodTue1A": {
+        "user": "5/08",
+        "subject": "ว30124",
+        "teacher": "อ.สุภานันท์"
+      },
+      "periodTue1B": {
+        "user": "5/08",
+        "subject": "ว30124",
+        "teacher": "อ.สุภานันท์"
+      },
+      "periodTue2A": {
+        "user": "5/04",
+        "subject": "ว30124",
+        "teacher": "อ.อรวรรณ"
+      },
+      "periodTue2B": {
+        "user": "5/04",
+        "subject": "ว30124",
+        "teacher": "อ.อรวรรณ"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "5/06",
+        "subject": "ว30124",
+        "teacher": "อ.ภัทรญา"
+      },
+      "periodWed1B": {
+        "user": "5/06",
+        "subject": "ว30124",
+        "teacher": "อ.ภัทรญา"
+      },
+      "periodWed2A": {
+        "user": "5/01",
+        "subject": "ว30124",
+        "teacher": "อ.อารีย์"
+      },
+      "periodWed2B": {
+        "user": "5/01",
+        "subject": "ว30124",
+        "teacher": "อ.อารีย์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/03",
+        "subject": "ว30122",
+        "teacher": "อ.พัสวีพิชญ์"
+      },
+      "periodThu1B": {
+        "user": "4/03",
+        "subject": "ว30122",
+        "teacher": "อ.พัสวีพิชญ์"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "4/02",
+        "subject": "ว30122",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodFri3B": {
+        "user": "4/02",
+        "subject": "ว30122",
+        "teacher": "อ.พิมพ์เพ็ญ"
+      },
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "ว30608",
+        "teacher": "อ.ธัญญรัตน์"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "ว30608",
+        "teacher": "อ.ธัญญรัตน์"
+      }
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "3503": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "5/02",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย"
+      },
+      "periodMon2B": {
+        "user": "5/01",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข"
+      },
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ว30508",
+        "teacher": "อ.ณรงค์ศักดิ์, อ.ศุภกร, อ.สาธิต"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ว30508",
+        "teacher": "อ.ณรงค์ศักดิ์, อ.ศุภกร, อ.สาธิต"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30501",
+          "teacher": "อ.วัลลภ,อ.ณุจุฑา,อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30501",
+          "teacher": "อ.วัลลภ, อ.ณุจุฑา, อ.วรรณิดา"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30501",
+          "teacher": "อ.วัลลภ,อ.ณุจุฑา,อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30501",
+          "teacher": "อ.วัลลภ, อ.ณุจุฑา, อ.วรรณิดา"
+        }
+      ],
+      "periodTue1A": {
+        "user": "4/08",
+        "subject": "ว30112",
+        "teacher": "อ.ณรงค์ศักดิ์"
+      },
+      "periodTue1B": {
+        "user": "4/08",
+        "subject": "ว30112",
+        "teacher": "อ.ณรงค์ศักดิ์"
+      },
+      "periodTue2A": {
+        "user": "5/02",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย"
+      },
+      "periodTue2B": {
+        "user": "5/02",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย"
+      },
+      "periodTue3A": {
+        "user": "5/10",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.ภคพล"
+      },
+      "periodTue3B": {
+        "user": "5/10",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.ภคพล"
+      },
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ว30502",
+        "teacher": "อ.สรชัย, อ.สิริหทัย"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ว30502",
+        "teacher": "อ.สรชัย, อ.สิริหทัย"
+      },
+      "periodWed1A": {
+        "user": "4/05",
+        "subject": "ว30112",
+        "teacher": "อ.เกียรติภูมิ, อ.วรรณิดา"
+      },
+      "periodWed1B": {
+        "user": "4/05",
+        "subject": "ว30112",
+        "teacher": "อ.เกียรติภูมิ, อ.วรรณิดา"
+      },
+      "periodWed2A": {
+        "user": "5/10",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.ภคพล"
+      },
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/01",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข"
+      },
+      "periodThu1B": {
+        "user": "5/01",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ว30511",
+        "teacher": "อ.สรชัย, อ.สิริหทัย"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ว30511",
+        "teacher": "อ.สรชัย, อ.สิริหทัย"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30509",
+          "teacher": "อ.วีรวุฒิ อ.เกียรติภูมิ"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30509",
+          "teacher": "อ.วีรวุฒิ อ.เกียรติภูมิ"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30509",
+          "teacher": "อ.วีรวุฒิ อ.เกียรติภูมิ"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30509",
+          "teacher": "อ.วีรวุฒิ อ.เกียรติภูมิ"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "3601": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/06",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodMon1B": {
+        "user": "5/06",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodMon2A": {
+        "user": "5/04",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodMon2B": {
+        "user": "5/04",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodMon3A": {
+        "user": "4/04",
+        "subject": "ว30112",
+        "teacher": "อ.นิชกานต์"
+      },
+      "periodMon3B": {
+        "user": "4/04",
+        "subject": "ว30112",
+        "teacher": "อ.นิชกานต์"
+      },
+      "periodMon4A": {
+        "user": "ม.4",
+        "subject": "ว30514",
+        "teacher": "อ.ดวงแข,อ.สาธิต"
+      },
+      "periodMon4B": {
+        "user": "ม.4",
+        "subject": "ว30514",
+        "teacher": "อ.ดวงแข,อ.สาธิต"
+      },
+      "periodTue1A": {
+        "user": "5/05",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.สาธิต"
+      },
+      "periodTue1B": {
+        "user": "5/05",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.สาธิต"
+      },
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": {
+        "user": "4/03",
+        "subject": "ว30112",
+        "teacher": "อ.ณุจุฑา"
+      },
+      "periodTue3B": {
+        "user": "4/03",
+        "subject": "ว30112",
+        "teacher": "อ.ณุจุฑา"
+      },
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ว30512",
+        "teacher": "อ.นิชกานต์, อ.สาธิต, อ.วีรวุฒิ"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ว30512",
+        "teacher": "อ.นิชกานต์, อ.สาธิต, อ.วีรวุฒิ"
+      },
+      "periodWed1A": {
+        "user": "5/05",
+        "subject": "ว30114",
+        "teacher": "อ.ดวงแข, อ.สาธิต"
+      },
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ว30510",
+        "teacher": "อ.วีรวุฒิ"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ว30510",
+        "teacher": "อ.วีรวุฒิ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/06",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "5/04",
+        "subject": "ว30114",
+        "teacher": "อ.สาโรจน์"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": {
+        "user": "4/09",
+        "subject": "ว30112",
+        "teacher": "อ.ณุจุฑา, อ.วรรณิดา"
+      },
+      "periodFri2B": {
+        "user": "4/09",
+        "subject": "ว30112",
+        "teacher": "อ.ณุจุฑา, อ.วรรณิดา"
+      },
+      "periodFri3A": {
+        "user": "4/06",
+        "subject": "ว30112",
+        "teacher": "อ.เกียรติภูมิ"
+      },
+      "periodFri3B": {
+        "user": "4/06",
+        "subject": "ว30112",
+        "teacher": "อ.เกียรติภูมิ"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30515",
+          "teacher": "อ.วัลลภ,อ.สาโรจน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30515",
+          "teacher": "อ.วัลลภ, อ.สาโรจน์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30515",
+          "teacher": "อ.วัลลภ,อ.สาโรจน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30515",
+          "teacher": "อ.วัลลภ, อ.สาโรจน์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "3603": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/03",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย, อ.ภคพล"
+      },
+      "periodMon1B": {
+        "user": "5/03",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย, อ.ภคพล"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "5/07",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodMon3B": {
+        "user": "5/07",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.ณรงค์ศักดิ์, อ.ณุจุฑา, อ.นิชกานต์, อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30801",
+          "teacher": "อ.ณรงค์ศักดิ์, อ.ณุจุฑา, อ.นิชกานต์, อ.วรรณิดา"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30801",
+          "teacher": "อ.ณรงค์ศักดิ์, อ.ณุจุฑา, อ.นิชกานต์, อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30801",
+          "teacher": "อ.ณรงค์ศักดิ์, อ.ณุจุฑา, อ.นิชกานต์, อ.วรรณิดา"
+        }
+      ],
+      "periodTue1A": 0,
+      "periodTue1B": {
+        "user": "5/07",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodTue2A": {
+        "user": "5/09",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodTue2B": {
+        "user": "5/09",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodTue3A": {
+        "user": "5/08",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย, อ.สาธิต"
+      },
+      "periodTue3B": {
+        "user": "5/08",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย, อ.สาธิต"
+      },
+      "periodTue4A": {
+        "user": "4/10",
+        "subject": "ว30112",
+        "teacher": "อ.ศุภกร"
+      },
+      "periodTue4B": {
+        "user": "4/10",
+        "subject": "ว30112",
+        "teacher": "อ.ศุภกร"
+      },
+      "periodWed1A": {
+        "user": "4/02",
+        "subject": "ว30112",
+        "teacher": "อ.นิชกานต์"
+      },
+      "periodWed1B": {
+        "user": "4/02",
+        "subject": "ว30112",
+        "teacher": "อ.นิชกานต์"
+      },
+      "periodWed2A": {
+        "user": "5/09",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย"
+      },
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": {
+        "user": "5/03",
+        "subject": "ว30114",
+        "teacher": "อ.สรชัย, อ.ภคพล"
+      },
+      "periodThu2A": {
+        "user": "5/08",
+        "subject": "ว30114",
+        "teacher": "อ.สิริหทัย, อ.สาธิต"
+      },
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/01",
+        "subject": "ว30112",
+        "teacher": "อ.ศุภกร"
+      },
+      "periodFri1B": {
+        "user": "4/01",
+        "subject": "ว30112",
+        "teacher": "อ.ศุภกร"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": {
+        "user": "4/07",
+        "subject": "ว30112",
+        "teacher": "อ.ณรงค์ศักดิ์"
+      },
+      "periodFri3B": {
+        "user": "4/07",
+        "subject": "ว30112",
+        "teacher": "อ.ณรงค์ศักดิ์"
+      },
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30516",
+          "teacher": "อ.ณุจุฑา,อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30516",
+          "teacher": "อ.ณุจุฑา, อ.วรรณิดา"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30516",
+          "teacher": "อ.ณุจุฑา,อ.วรรณิดา"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30516",
+          "teacher": "อ.ณุจุฑา, อ.วรรณิดา"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "3605": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ว30801",
+        "teacher": "อ.กมลพร,อ.ชาคริต,อ.เกล็ดทราย"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ว30801",
+        "teacher": "อ.กมลพร,อ.ชาคริต,อ.เกล็ดทราย"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ว30428",
+        "teacher": "อ.ธวัชชัย"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ว30428",
+        "teacher": "อ.ธวัชชัย"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ว30421",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ว30421",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "ว30401",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "ว30401",
+        "teacher": "อ.เกล็ดทราย"
+      }
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "CH",
+      "contact": null
+    }
+  },
+  "3701": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": {
+        "user": "4/10",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": {
+        "user": "4/05",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodMon3A": {
+        "user": "4/02",
+        "subject": "ว30102",
+        "teacher": "อ.นิทัศน์"
+      },
+      "periodMon3B": {
+        "user": "4/02",
+        "subject": "ว30102",
+        "teacher": "อ.นิทัศน์"
+      },
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ว30404",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ว30404",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodTue1A": {
+        "user": "4/06",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodTue1B": {
+        "user": "4/06",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodTue2A": {
+        "user": "4/09",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodTue2B": {
+        "user": "4/09",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodTue3A": {
+        "user": "4/04",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodTue3B": {
+        "user": "4/04",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodTue4A": [
+        {
+          "user": "4/07",
+          "subject": "ว30102",
+          "teacher": "อ.เกล็ดทราย, อ.กิติศักดิ์"
+        },
+        {
+          "user": "ม.6",
+          "subject": "ว30421",
+          "teacher": "อ.พรมงคล"
+        }
+      ],
+      "periodTue4B": [
+        {
+          "user": "4/07",
+          "subject": "ว30102",
+          "teacher": "อ.เกล็ดทราย, อ.กิติศักดิ์"
+        },
+        {
+          "user": "ม.6",
+          "subject": "ว30421",
+          "teacher": "อ.พรมงคล"
+        }
+      ],
+      "periodWed1A": {
+        "user": "4/01",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodWed1B": {
+        "user": "4/01",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodWed2A": {
+        "user": "4/03",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodWed2B": {
+        "user": "4/03",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "4/05",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodThu1B": {
+        "user": "4/05",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodThu2A": {
+        "user": "4/02",
+        "subject": "ว30102",
+        "teacher": "อ.นิทัศน์"
+      },
+      "periodThu2B": {
+        "user": "4/08",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "4/08",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodFri1B": {
+        "user": "4/08",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย"
+      },
+      "periodFri2A": {
+        "user": "4/10",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodFri2B": {
+        "user": "4/10",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30426",
+          "teacher": "อ.กมลพร อ.นิทัศน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30426",
+          "teacher": "อ.กมลพร, อ.นิทัศน์"
+        }
+      ],
+      "periodFri4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30426",
+          "teacher": "อ.กมลพร อ.นิทัศน์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30426",
+          "teacher": "อ.กมลพร, อ.นิทัศน์"
+        }
+      ]
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "11/1",
+      "ac_total": 3,
+      "ac_working_damaged": "2/1",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": "หลอดไฟชำรุด 1 หลอด ,เครื่องปรับอากาศชำรุด 1 ตัว",
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "3703": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": {
+        "user": "4/09",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "5/03",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodMon3B": {
+        "user": "5/03",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodMon4A": {
+        "user": "ม.4",
+        "subject": "ว30425",
+        "teacher": "อ.ปราณี"
+      },
+      "periodMon4B": {
+        "user": "ม.4",
+        "subject": "ว30425",
+        "teacher": "อ.ปราณี"
+      },
+      "periodTue1A": {
+        "user": "5/01",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodTue1B": {
+        "user": "5/01",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodTue2A": {
+        "user": "4/03",
+        "subject": "ว30102",
+        "teacher": "อ.ธวัชชัย สุดใจ"
+      },
+      "periodTue2B": {
+        "user": "5/05",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodTue3A": {
+        "user": "5/02",
+        "subject": "ว30104",
+        "teacher": "อ.ชาคริต"
+      },
+      "periodTue3B": {
+        "user": "5/02",
+        "subject": "ว30104",
+        "teacher": "อ.ชาคริต"
+      },
+      "periodTue4A": {
+        "user": "5/09",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodTue4B": {
+        "user": "5/09",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": {
+        "user": "4/04",
+        "subject": "ว30102",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodWed2A": {
+        "user": "4/07",
+        "subject": "ว30102",
+        "teacher": "อ.เกล็ดทราย, อ.กิติศักดิ์"
+      },
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/02",
+        "subject": "ว30104",
+        "teacher": "อ.ชาคริต"
+      },
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "4/06",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodThu2B": {
+        "user": "4/01",
+        "subject": "ว30102",
+        "teacher": "อ.พรมงคล"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/09",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodFri1B": {
+        "user": "5/08",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodFri2A": {
+        "user": "5/04",
+        "subject": "ว30104",
+        "teacher": "อ.ธัญนันท์"
+      },
+      "periodFri2B": {
+        "user": "5/04",
+        "subject": "ว30104",
+        "teacher": "อ.ธัญนันท์"
+      },
+      "periodFri3A": {
+        "user": "ม.6",
+        "subject": "ว30419",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodFri3B": {
+        "user": "ม.6",
+        "subject": "ว30419",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodFri4A": {
+        "user": "ม.5",
+        "subject": "ว30417",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodFri4B": {
+        "user": "ม.5",
+        "subject": "ว30417",
+        "teacher": "อ.จิรวัฒน์"
+      }
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "3705": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "5/07",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต, อ.ธัญนันท์"
+      },
+      "periodMon1B": {
+        "user": "5/07",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต, อ.ธัญนันท์"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ว30801",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ว30801",
+        "teacher": "อ.จิรวัฒน์"
+      },
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": {
+        "user": "5/10",
+        "subject": "ว30104",
+        "teacher": "อ.กิติศักดิ์"
+      },
+      "periodTue2A": {
+        "user": "5/08",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodTue2B": {
+        "user": "5/08",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": {
+        "user": "5/04",
+        "subject": "ว30104",
+        "teacher": "อ.ธัญนันท์"
+      },
+      "periodWed1B": {
+        "user": "5/07",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต, อ.ธัญนันท์"
+      },
+      "periodWed2A": {
+        "user": "5/05",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodWed2B": {
+        "user": "5/05",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "5/10",
+        "subject": "ว30104",
+        "teacher": "อ.กิติศักดิ์"
+      },
+      "periodThu1B": {
+        "user": "5/10",
+        "subject": "ว30104",
+        "teacher": "อ.กิติศักดิ์"
+      },
+      "periodThu2A": {
+        "user": "5/06",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodThu2B": {
+        "user": "5/01",
+        "subject": "ว30104",
+        "teacher": "อ.วิศรุต"
+      },
+      "periodThu3A": {
+        "user": "ม.6",
+        "subject": "ว30405",
+        "teacher": "อ.ปราณี"
+      },
+      "periodThu3B": {
+        "user": "ม.6",
+        "subject": "ว30405",
+        "teacher": "อ.ปราณี"
+      },
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "5/06",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodFri1B": {
+        "user": "5/06",
+        "subject": "ว30104",
+        "teacher": "อ.กมลพร"
+      },
+      "periodFri2A": {
+        "user": "5/03",
+        "subject": "ว30104",
+        "teacher": "อ.รุ่งโรจน์"
+      },
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": "Lab",
+      "lights_total": 12,
+      "lights_working_damaged": "12",
+      "ac_total": 3,
+      "ac_working_damaged": "3",
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "ห้องศิลปะ": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "ศ30203",
+        "teacher": "อ.มานนท์"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "ศ30203",
+        "teacher": "อ.มานนท์"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "ห้องอิเล็กทรอนิกส์ 1": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "ห้องอิเล็กทรอนิกส์ 2": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "ห้องปริ้น3มิติ": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "PH",
+      "contact": null
+    }
+  },
+  "ห้องนาฎศิลป์": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": {
+        "user": "ม.6",
+        "subject": "ศ30210",
+        "teacher": "อ.ปภากร"
+      },
+      "periodWed2B": {
+        "user": "ม.6",
+        "subject": "ศ30210",
+        "teacher": "อ.ปภากร"
+      },
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "LA",
+      "contact": null
+    }
+  },
+  "ห้องมวยไทย": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "ห้องเรียนศูนย์กีฬา": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "ห้องลีลาศ": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "BH",
+      "contact": null
+    }
+  },
+  "ห้องดร.ณัฐ": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "6/06, 6/07, 6/08, 6/09, 6/10",
+        "subject": "ส30110",
+        "teacher": "อ.วีระยุทธ, อ.พชร"
+      },
+      "periodThu2B": {
+        "user": "6/01, 6/02, 6/03, 6/04, 6/05",
+        "subject": "ส30110",
+        "teacher": "อ.พชร, อ.วิสิทธิ์"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FVO",
+      "contact": null
+    }
+  },
+  "ห้องดร.โกวิท": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": [
+        {
+          "user": "4/07",
+          "subject": "ว30145",
+          "teacher": "อ.กิติศักดิ์, อ.จิโรจน์"
+        },
+        {
+          "user": "4/08",
+          "subject": "ว30145",
+          "teacher": "อ.สาธิต, อ.บุญนที"
+        }
+      ],
+      "periodMon2B": [
+        {
+          "user": "4/07",
+          "subject": "ว30145",
+          "teacher": "อ.กิติศักดิ์, อ.จิโรจน์"
+        },
+        {
+          "user": "4/08",
+          "subject": "ว30145",
+          "teacher": "อ.สาธิต, อ.บุญนที"
+        }
+      ],
+      "periodMon3A": [
+        {
+          "user": "4/05",
+          "subject": "ว30145",
+          "teacher": "อ.วรรณิดา, อ.เลาขวัญ"
+        },
+        {
+          "user": "4/06",
+          "subject": "ว30145",
+          "teacher": "อ.ธวัชชัย, อ.ทิพนาถ"
+        }
+      ],
+      "periodMon3B": [
+        {
+          "user": "4/05",
+          "subject": "ว30145",
+          "teacher": "อ.วรรณิดา, อ.เลาขวัญ"
+        },
+        {
+          "user": "4/06",
+          "subject": "ว30145",
+          "teacher": "อ.ธวัชชัย, อ.ทิพนาถ"
+        }
+      ],
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": [
+        {
+          "user": "4/09",
+          "subject": "ว30145",
+          "teacher": "อ.เลาขวัญ, อ.เมษสุวัลย์"
+        },
+        {
+          "user": "4/10",
+          "subject": "ว30145",
+          "teacher": "อ.วีรวุฒิ, อ.ชาคริต"
+        }
+      ],
+      "periodTue1B": [
+        {
+          "user": "4/09",
+          "subject": "ว30145",
+          "teacher": "อ.เลาขวัญ, อ.เมษสุวัลย์"
+        },
+        {
+          "user": "4/10",
+          "subject": "ว30145",
+          "teacher": "อ.วีรวุฒิ, อ.ชาคริต"
+        }
+      ],
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": [
+        {
+          "user": "4/03",
+          "subject": "ว30145",
+          "teacher": "อ.สุภานันท์, อ.วันเฉลิม"
+        },
+        {
+          "user": "4/04",
+          "subject": "ว30145",
+          "teacher": "อ.รุ่งโรจน์, อ.นิชกานต์"
+        }
+      ],
+      "periodThu2B": [
+        {
+          "user": "4/03",
+          "subject": "ว30145",
+          "teacher": "อ.สุภานันท์, อ.วันเฉลิม"
+        },
+        {
+          "user": "4/04",
+          "subject": "ว30145",
+          "teacher": "อ.รุ่งโรจน์, อ.นิชกานต์"
+        }
+      ],
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": [
+        {
+          "user": "4/01",
+          "subject": "ว30145",
+          "teacher": "อ.ภคพล, อ.สิทธิโชค"
+        },
+        {
+          "user": "4/02",
+          "subject": "ว30145",
+          "teacher": "อ.นิทัศน์, อ.พิมพ์เพ็ญ"
+        }
+      ],
+      "periodFri2B": [
+        {
+          "user": "4/01",
+          "subject": "ว30145",
+          "teacher": "อ.ภคพล, อ.สิทธิโชค"
+        },
+        {
+          "user": "4/02",
+          "subject": "ว30145",
+          "teacher": "อ.นิทัศน์, อ.พิมพ์เพ็ญ"
+        }
+      ],
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "lights_total": null,
+      "lights_working_damaged": null,
+      "ac_total": null,
+      "ac_working_damaged": null,
+      "visual_system": true,
+      "hdmi_cable": true,
+      "audio_system": true,
+      "microphone_and_cable": true,
+      "other": null,
+      "damaged_items": null,
+      "department_note": "FVO",
+      "contact": null
+    }
+  },
+  "ห้องอิเล็กทรอนิกส์": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": {
+        "user": "ม.6",
+        "subject": "ว30801",
+        "teacher": "อ.ชาคริต"
+      },
+      "periodMon3B": {
+        "user": "ม.6",
+        "subject": "ว30801",
+        "teacher": "อ.ชาคริต"
+      },
+      "periodMon4A": [
+        {
+          "user": "ม.4",
+          "subject": "ว30413",
+          "teacher": "อ.กิติศักดิ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30413",
+          "teacher": "อ.กิติศักดิ์"
+        }
+      ],
+      "periodMon4B": [
+        {
+          "user": "ม.4",
+          "subject": "ว30413",
+          "teacher": "อ.กิติศักดิ์"
+        },
+        {
+          "user": "ม.5",
+          "subject": "ว30413",
+          "teacher": "อ.กิติศักดิ์"
+        }
+      ],
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  },
+  "ศูนย์กีฬาชั้น 4": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "4/09",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodMon2B": {
+        "user": "4/10",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": {
+        "user": "4/01",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodTue2B": {
+        "user": "4/02",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "4/05",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodThu2B": {
+        "user": "4/06",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": {
+        "user": "4/07",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodThu4B": {
+        "user": "4/08",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": {
+        "user": "4/03",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodFri2B": {
+        "user": "4/04",
+        "subject": "พ30102",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "พ30201",
+        "teacher": "อ.จิรพนธ์"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "พ30201",
+        "teacher": "อ.จิรพนธ์"
+      }
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  },
+  "สนามฟุตบอล": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": 0,
+      "periodMon4B": 0,
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": {
+        "user": "ม.4",
+        "subject": "พ30201",
+        "teacher": "อ.จิรพนธ์"
+      },
+      "periodFri4B": {
+        "user": "ม.4",
+        "subject": "พ30201",
+        "teacher": "อ.จิรพนธ์"
+      }
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  },
+  "ศูนย์กีฬาชั้น 2": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": {
+        "user": "5/01",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodMon2B": {
+        "user": "5/02",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.6",
+        "subject": "พ30206",
+        "teacher": "อ.นริศรา"
+      },
+      "periodMon4B": {
+        "user": "ม.6",
+        "subject": "พ30206",
+        "teacher": "อ.นริศรา"
+      },
+      "periodTue1A": {
+        "user": "6/02",
+        "subject": "พ30106",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodTue1B": {
+        "user": "6/04",
+        "subject": "พ30106",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodTue2A": {
+        "user": "5/05",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodTue2B": {
+        "user": "5/06",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "5/07",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodTue4B": {
+        "user": "5/08",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": {
+        "user": "5/09",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodThu2B": {
+        "user": "5/10",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": {
+        "user": "6/06",
+        "subject": "พ30106",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodFri1B": 0,
+      "periodFri2A": {
+        "user": "6/08",
+        "subject": "พ30106",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodFri2B": {
+        "user": "6/10",
+        "subject": "พ30106",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodFri3A": {
+        "user": "5/03",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodFri3B": {
+        "user": "5/04",
+        "subject": "พ30104",
+        "teacher": "อ.นริศรา อ.อาริตา"
+      },
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  },
+  "ศูนย์กีฬาชั้น 3": {
+    "timetable": {
+      "periodMon1A": {
+        "user": "6/05",
+        "subject": "พ30106",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodMon1B": {
+        "user": "6/07",
+        "subject": "พ30106",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "พ30208",
+        "teacher": "อ.สุชาวดี"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "พ30208",
+        "teacher": "อ.สุชาวดี"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": 0,
+      "periodTue4B": 0,
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": {
+        "user": "6/01",
+        "subject": "พ30106",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodThu1B": {
+        "user": "6/03",
+        "subject": "พ30106",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": {
+        "user": "ม.6",
+        "subject": "พ30205",
+        "teacher": "อ.อาริตา"
+      },
+      "periodThu3B": {
+        "user": "ม.6",
+        "subject": "พ30205",
+        "teacher": "อ.อาริตา"
+      },
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": {
+        "user": "6/09",
+        "subject": "พ30106",
+        "teacher": "อ.สุชาวดี อ.จิรพนธ์"
+      },
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  },
+  "ห้องดนตรี": {
+    "timetable": {
+      "periodMon1A": 0,
+      "periodMon1B": 0,
+      "periodMon2A": 0,
+      "periodMon2B": 0,
+      "periodMon3A": 0,
+      "periodMon3B": 0,
+      "periodMon4A": {
+        "user": "ม.5",
+        "subject": "ศ30206",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodMon4B": {
+        "user": "ม.5",
+        "subject": "ศ30206",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue1A": 0,
+      "periodTue1B": 0,
+      "periodTue2A": 0,
+      "periodTue2B": 0,
+      "periodTue3A": 0,
+      "periodTue3B": 0,
+      "periodTue4A": {
+        "user": "ม.6",
+        "subject": "ศ30207",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodTue4B": {
+        "user": "ม.6",
+        "subject": "ศ30207",
+        "teacher": "อ.ชัยนันท์"
+      },
+      "periodWed1A": 0,
+      "periodWed1B": 0,
+      "periodWed2A": 0,
+      "periodWed2B": 0,
+      "periodWed3A": 0,
+      "periodWed3B": 0,
+      "periodWed4A": 0,
+      "periodWed4B": 0,
+      "periodThu1A": 0,
+      "periodThu1B": 0,
+      "periodThu2A": 0,
+      "periodThu2B": 0,
+      "periodThu3A": 0,
+      "periodThu3B": 0,
+      "periodThu4A": 0,
+      "periodThu4B": 0,
+      "periodFri1A": 0,
+      "periodFri1B": 0,
+      "periodFri2A": 0,
+      "periodFri2B": 0,
+      "periodFri3A": 0,
+      "periodFri3B": 0,
+      "periodFri4A": 0,
+      "periodFri4B": 0
+    },
+    "condition": {
+      "chair no.": null,
+      "note": "สถานที่/ห้องเพิ่มเติมจากตารางเรียน (ไม่มีข้อมูลสภาพห้องในชีตข้อมูลห้องเรียน)"
+    }
+  }
+}
